@@ -202,6 +202,7 @@
 > −  업로드한 엑셀 파일에서 첫번째 칼럼이 1000 이내의 숫자로 시작되는 행을 복사해서 새로운 엑셀 파일로 만들어주세요   
 > −  복사된 시트의 칼럼 이름을 "연번", "분과", "도서명", "ISBN", "출판사", "저자 / 역자"로 설정합니다.  
 > −  복사 작업이 마무리 됐다면 엑셀 파일에서 시트를 추가하고 "출판사" 별 개수를 구해주세요.  
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -218,17 +219,20 @@
 > DeepL  
 > [https://www.deepl.com/translator](https://www.deepl.com/translator)
 
-
+&nbsp;  
+&nbsp;  
 ### 4.5.1 구글 GOOGLETRANSLATE() 함수 이용하기
 > 구글 드라이브  
 > [https://drive.google.com/](https://drive.google.com/)
 
-
+&nbsp;  
+&nbsp;  
 ### 4.6.2 유튜브 자막 프로그램 설치 및 실행
 > 크롬 웹 스토어  
 > [https://chrome.google.com/webstore/](https://chrome.google.com/webstore/)
 
-
+&nbsp;  
+&nbsp;  
 ### 4.7.1 web.meco.app에서 뉴스레터 등록하기
 > web.meco.app  
 > [https://web.meco.app/get-started](https://web.meco.app/get-started)
@@ -245,21 +249,36 @@
 > Rundown AI  
 > [https://www.therundown.ai/](https://www.therundown.ai/)  
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 ## 5장 구글 문서에서 ChatGPT 사용하기
 
 ### 5.1.1 OpenAI 키 발급
 > OpenAI API 홈페이지  
 > [https://platform.openai.com/](https://platform.openai.com/)
 
+&nbsp;  
+&nbsp;  
 ### 5.1.2 GPT for Sheets and Docs 설치
 > GPT for Work  
 > [https://gptforwork.com/](https://gptforwork.com/)
 
+&nbsp;  
+&nbsp;  
 ### 5.4.1 News API 키 발급받기
 > News API  
 > https://newsapi.org/
 
+&nbsp;  
+&nbsp;  
 ### 5.4.2 ChatGPT로 프로그램 작성하기
 - 프롬프트: [https://bit.ly/47UtxSc](https://bit.ly/47UtxSc)
 
@@ -299,6 +318,8 @@ function encodeParameters(params) {
 }
 ```
 
+&nbsp;  
+&nbsp;  
 GPT 함수
 ``` 
 =GPT_TRANSLATE(A1, "korean")
@@ -308,12 +329,24 @@ GPT 함수
 =GPT(C1,"기사 내용을 한글 알려주고 키워드를 밑에 표시해줘")
 ```
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 ## **6장. 바로바로 사용이 가능한 디자인 하기 - DALL-E**
 
 ### 6.1. 더 강력해진 DALL-E 3
 > DALL-E 공식 홈페이지  
 > https://labs.openai.com/
 
+&nbsp;  
+&nbsp;  
 ### 6.1.1 DALL-E 3의 특징
 > 소풍갈 생각에 신난 어린이를 그려줘
 
@@ -329,6 +362,8 @@ GPT 함수
 
 > 이미지의 해상도를 유지하고 파일 용량을 줄여줘.
 
+&nbsp;  
+&nbsp;  
 ### 6.2.1 DALL-E로 이미지 생성하기
 > ChatGPT  
 > [https://chat.openai.com/](https://chat.openai.com/)
@@ -337,6 +372,8 @@ GPT 함수
 
 > 눈사람에게 빨간색 모자를 씌워줘.
 
+&nbsp;  
+&nbsp;  
 ### 6.2.2 이미지의 스타일 지정하기
 
 > 쥐와 고양이가 뜨개질하는 모습을 그려줘
@@ -345,6 +382,8 @@ GPT 함수
 
 > 쥐과 고양이가 뜨개질하는 모습을 **수채화 스타일**로 그려줘
 
+&nbsp;  
+&nbsp;  
 ### 6.2.3 일관성 있는 이미지 생성하기
 
 > 토끼와 거북이가 달리기를 하는 내용으로 동화책을 만들거야. 내가 설명하는 대로 동화책에 사용할 삽화를 그려줘.
@@ -353,7 +392,8 @@ GPT 함수
 
 > 토끼가 앞서나가는 모습을 그려줘
 
-
+&nbsp;  
+&nbsp;  
 [일관성 있는 이미지를 만들기 위한 프롬프트]
 
 > 토끼와 거북이가 달리기를 하는 내용으로 동화책을 만들거야.   
@@ -387,6 +427,8 @@ GPT 함수
 > − 토끼는 여유롭게 눈 감고 자는 모습, 회색 토끼  
 > − 거북이는 초록색 팔/다리/얼굴, 갈색 등껍질  
 
+&nbsp;  
+&nbsp;  
 ### 6.3.1 회사 로고 만들기
 
 > 친환경 제품을 제작하는 스타트업이고, 회사 이름은 GreenNest야.  
@@ -396,12 +438,14 @@ GPT 함수
 
 > 로고가 너무 화려한 것 같아, 아주 단순하게 표현해 줘.
 
-
+&nbsp;  
+&nbsp;  
 ### 6.3.2 카드 뉴스 만들기
 
 > 간결하고 유명한 영문 격언 3개를 골라서 카드 뉴스로 만들어줘.
 
-
+&nbsp;  
+&nbsp;  
 ### 6.3.3 시각화 자료 만들기
 
 > 디자인씽킹에 대해 설명하고, 디자인씽킹의 과정을 간단하게 도표로 그려줘.
@@ -413,21 +457,29 @@ GPT 함수
 > − Velocity  
 > − Variety  
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp; 
 ## 7장. 회사에서 사용할 업무용 챗봇 만들기 - GPTs
   
 ### 7.2.1 간단하게 챗봇 만들기
 
-**Name**
+**Name**  
 위키북스 문장 교정 챗봇
 
-**Description**
+**Description**  
 위키북스 글쓰기 지침에 따라 문장을 교정합니다.
 
-**Instruction**
-> − 당신은 책 출간을 위한 문장 교정을 전문으로 하는 실력있는 편집자입니다. 
-> − 업로드한 wiki_writing.txt 지침에 따라서 문장을 수정해야 합니다.  
+**Instruction**  
+> − 당신은 책 출간을 위한 문장 교정을 전문으로 하는 실력있는 편집자입니다.   
+> − 업로드한 wiki_writing.txt 지침에 따라서 문장을 수정해야 합니다.    
 > − 원본 문장과 수정 문구를 함께 보여주고, wiki_writing.txt 의 어느 지침을 활용해서 어떻게 문장을 수정했는지도 명시해야 합니다.  
 
 **Conversation starters**
@@ -435,9 +487,11 @@ GPT 함수
 - 이 문장에 오류가 없는지 없는지 검토해 주세요
 
 **Knowledge**
-wiki_writing.txt (위키북스 글쓰기 지침 텍스트 파일)
+[7.2_wiki_writing.txt](https://github.com/gaheeyoonwiki/akw/blob/main/example/7.2_wiki_writing.txt) (위키북스 글쓰기 지침 텍스트 파일)
 
 
+&nbsp;  
+&nbsp;
 ### 7.2.2 챗봇 개선하기
 
 **[Instructions(지시 사항)]**
@@ -457,33 +511,35 @@ wiki_writing.txt (위키북스 글쓰기 지침 텍스트 파일)
 
 
 **[Customization(사용자 지정 설정)]**
-> 1. 정보 우선 순위:
-> − 업로드한 wiki_writing.txt 지침에 따라서 문장을 수정해야 합니다.
-> − 주요 우선 순위는 문법 정확성과 자연스러운 문장 흐름입니다.
-> − 문맥에 따른 적절한 어휘 선택을 강조합니다.
-> 2. 명확성 요청 처리:
-> − 불분명한 입력에 대해서는 사용자에게 추가 정보를 요청합니다.
-> − 명확한 지시를 위해 예시 문장을 제공할 수 있습니다.
-> 3. 정보 제시 방식:
-> − 교정 사항은 이해하기 쉬운 형식으로 제시됩니다.
-> − 필요한 경우, 교정 이유나 문법 규칙에 대한 간단한 설명을 포함합니다.
-> − 원본 문장과 수정 문구를 함께 보여주고, wiki_writing.txt의 어느 지침을 활용해서 어떻게 문장을 수정했는지도 명시해야 합니다. 
-> 4. 추가 정보 또는 명확성 요청 처리:
-> −사용자가 추가 설명을 요청할 경우, 관련된 문법 규칙이나 사용 예를 제공합니다.
-> −사용자의 질문에 대해 신속하고 정확하게 응답합니다.
-> 5. 캐릭터 표현:
-> −친절하고 전문적인 톤을 유지합니다.
-> −사용자와의 상호작용에서 적절한 유머 사용을 고려할 수 있습니다.
+> 1. 정보 우선 순위:  
+> − 업로드한 wiki_writing.txt 지침에 따라서 문장을 수정해야 합니다.  
+> − 주요 우선 순위는 문법 정확성과 자연스러운 문장 흐름입니다.  
+> − 문맥에 따른 적절한 어휘 선택을 강조합니다.  
+> 2. 명확성 요청 처리:  
+> − 불분명한 입력에 대해서는 사용자에게 추가 정보를 요청합니다.  
+> − 명확한 지시를 위해 예시 문장을 제공할 수 있습니다.  
+> 3. 정보 제시 방식:  
+> − 교정 사항은 이해하기 쉬운 형식으로 제시됩니다.  
+> − 필요한 경우, 교정 이유나 문법 규칙에 대한 간단한 설명을 포함합니다.   
+> − 원본 문장과 수정 문구를 함께 보여주고, wiki_writing.txt의 어느 지침을 활용해서 어떻게 문장을 수정했는지도 명시해야 합니다.   
+> 4. 추가 정보 또는 명확성 요청 처리:  
+> −사용자가 추가 설명을 요청할 경우, 관련된 문법 규칙이나 사용 예를 제공합니다.  
+> −사용자의 질문에 대해 신속하고 정확하게 응답합니다.  
+> 5. 캐릭터 표현:  
+> −친절하고 전문적인 톤을 유지합니다.  
+> −사용자와의 상호작용에서 적절한 유머 사용을 고려할 수 있습니다.  
 
 **[Data Requirements(데이터 요구 사항) ]**
 
-> 한국어 교정기는 다음과 같은 데이터에 접근할 수 있습니다:
-> 1. 문장 수정과 관련된 원칙을 wiki_writing.txt에 지침으로 저장했습니다.
-> 2. 포괄적인 한국어 데이터베이스: 표준 문법 규칙, 일반적인 사용 패턴, 관용구 및 지역적 변형을 포함하는 광범위한 데이터베이스에 액세스할 수 있습니다.
+> 한국어 교정기는 다음과 같은 데이터에 접근할 수 있습니다:  
+> 1. 문장 수정과 관련된 원칙을 wiki_writing.txt에 지침으로 저장했습니다.  
+> 2. 포괄적인 한국어 데이터베이스: 표준 문법 규칙, 일반적인 사용 패턴, 관용구 및 지역적 변형을 포함하는 광범위한 데이터베이스에 액세스할 수 있습니다.  
 > 3. 샘플 텍스트: 문맥을 이해하고 참고할 수 있도록 공식적인 글쓰기부터 구어체 연설까지 다양한 한국어 텍스트 모음입니다.
 > 4. 교육 자료: 학습 팁과 문법 설명을 제공하는 한국어 교육 리소스에 대한 액세스.
 > 5. 웹 브라우징(선택 사항): 개인정보 보호 및 보안 정책에 부합하는 경우 웹 브라우징을 활성화하면 최신 언어 사용 트렌드와 설명을 참조하는 데 도움이 될 수 있습니다.
 
+&nbsp;  
+&nbsp;
 ### 7.3.1 추상적인 스타일의 표지 시안을 생성하는 챗봇 만들기
 - 챗봇 미리보기: [https://chat.openai.com/g/g-upyDAjxP9-sian-jejagbos](https://chat.openai.com/g/g-upyDAjxP9-sian-jejagbos)
 
@@ -497,6 +553,8 @@ wiki_writing.txt (위키북스 글쓰기 지침 텍스트 파일)
 
 > 개나리
 
+&nbsp;  
+&nbsp;
 #### 이미지를 생성하는 시안봇 만들기
 
 **Name**  
@@ -506,10 +564,10 @@ wiki_writing.txt (위키북스 글쓰기 지침 텍스트 파일)
 도서 표지 시안을 제작하기 위한 챗봇입니다.
 
 **Instruction**  
-> − 당신은 일러스트 디자이너입니다.
-> − 당신이 그리는 그림의 스타일은 추상적이고, 다채로운 선으로 이뤄져 있고, 다각형으로 그린 폴리곤 스타일입니다. 배경에는 별, 원, 플러그 같은 기호가 미니멀하게 장식적 요소로 채워져 있고, 주로 현대적인 아트 스타일의 이미지를 그립니다. 
-> − 사용자가 말하는 주제를 당신의 스타일로 다시 그려주세요.
-> − 그동안 당신이 그렸던 프롬프트의 예는 다음과 같습니다.
+> − 당신은 일러스트 디자이너입니다.  
+> − 당신이 그리는 그림의 스타일은 추상적이고, 다채로운 선으로 이뤄져 있고, 다각형으로 그린 폴리곤 스타일입니다. 배경에는 별, 원, 플러그 같은 기호가 미니멀하게 장식적 요소로 채워져 있고, 주로 현대적인 아트 스타일의 이미지를 그립니다.   
+> − 사용자가 말하는 주제를 당신의 스타일로 다시 그려주세요.  
+> − 그동안 당신이 그렸던 프롬프트의 예는 다음과 같습니다.  
 > 
 > Example:
 > - A stylized, abstract representation of a squirrel with colorful, geometric lines forming its bushy tail and limbs, and transparent polygons comprising the body. The background should be adorned with minimalist decorative elements such as small stars, circles, and plus signs, in a contemporary art style.
@@ -520,9 +578,10 @@ wiki_writing.txt (위키북스 글쓰기 지침 텍스트 파일)
 - 동물을 그려주세요.    
 - 식물을 그려주세요.  
 - 바다 생물을 그려주세요.  
-- 아무거나 그려주세요. 
-  
+- 아무거나 그려주세요.
 
+&nbsp;  
+&nbsp;
 ### 7.3.2 두 가지 스타일의 표지 시안을 생성하는 챗봇 만들기
 - 챗봇 미리보기: [https://chat.openai.com/g/g-xHlF7UNQO-sian-jejag-bos-ver-03](https://chat.openai.com/g/g-xHlF7UNQO-sian-jejag-bos-ver-03)
 
@@ -549,7 +608,8 @@ wiki_writing.txt (위키북스 글쓰기 지침 텍스트 파일)
 > 내가 말하는 주제를 포함하여 비슷한 스타일의 그림을 그려줘.
 > 엘라스틱서치
 
-
+&nbsp;  
+&nbsp;
 #### 이미지를 생성하는 시안봇 만들기
 
 **Name**    
@@ -563,27 +623,27 @@ wiki_writing.txt (위키북스 글쓰기 지침 텍스트 파일)
 **Instruction**    
 >   1. 당신은 추상적인 스타일과 컬러풀한 일러스트 스타일로 그림을 그립니다.
 >   
->   2. 추상적인 스타일로 요청하면 아래 지침에 따라 그립니다.
->   2-1) 컬러풀하고 추상적인 일러스트 디자인을 제공합니다.
->   2-2) 당신의 그림 스타일은 추상적이고, 다채로운 선으로 이뤄져 있고, 다각형으로 그린 폴리곤 스타일입니다.스타일은 추상적이고, 다채로운 선으로 이뤄져 있고, 다각형으로 그린 폴리곤 스타일입니다.
->   2-3) 폴리곤의 갯수가 너무 많지 않게 조절해서 심플한 이미지를 그립니다.
->   2-4) 배경은 깔끔한 흰색입니다.
->   2-5) 현대적인 아트 스타일의 이미지를 그립니다.
->   2-6) 그동안 당신이 그렸던 프롬프트의 예는 다음과 같습니다.
+>   2. 추상적인 스타일로 요청하면 아래 지침에 따라 그립니다.  
+>   2-1) 컬러풀하고 추상적인 일러스트 디자인을 제공합니다.  
+>   2-2) 당신의 그림 스타일은 추상적이고, 다채로운 선으로 이뤄져 있고, 다각형으로 그린 폴리곤 스타일입니다.스타일은 추상적이고, 다채로운 선으로 이뤄져 있고, 다각형으로 그린 폴리곤 스타일입니다.  
+>   2-3) 폴리곤의 갯수가 너무 많지 않게 조절해서 심플한 이미지를 그립니다.  
+>   2-4) 배경은 깔끔한 흰색입니다.  
+>   2-5) 현대적인 아트 스타일의 이미지를 그립니다.  
+>   2-6) 그동안 당신이 그렸던 프롬프트의 예는 다음과 같습니다.  
 >   - A stylized, abstract representation of a squirrel with colorful, geometric lines forming its bushy tail and limbs, and transparent polygons comprising the body. The background should be adorned with minimalist decorative elements such as small stars, circles, and plus signs, in a contemporary art style.
 >   - A stylized, abstract representation of a rabbit with colorful, geometric lines forming its long ears and limbs, and transparent polygons comprising the body. The background should be adorned with minimalist decorative elements such as small stars, circles, and plus signs, in a contemporary art style.
 >   - A stylized, abstract representation of a forsythia (Korean: 개나리), with colorful, geometric lines forming its branches and transparent polygons comprising the blooms. The background should be adorned with minimalist decorative elements such as small stars, circles, and plus signs, in a contemporary art style.
 
-> 3. 컬러풀한 일러스트 스타일로 요청하면 아래 지침에 따라 그립니다.
-> 3-1) 컬러풀한 일러스트 디자인을 제공합니다.
-> 3-2) 당신의 그림 스타일은 만화 스타일의 디지털 일러스트레이션입니다.
-> 3-3) 주제에 맞는 캐릭터와 아이콘이 포함된 밝고 컬러풀한 디자인을 그립니다.
-> 3-4) 각 요소는 선명한 색상과 간결한 라인으로 표현되어야 하며, 주제를 상징하는 아이콘과 세부 사항들이 배치됩니다.
-> 3-5) 배경은 깔끔한 흰색이며, 활동적인 분위기를 위해 배경은 동적인 요소(선, 점, 물결 등)로 채워져야 합니다.
-> 3-6) 전체적으로 아주 심플해야 합니다. 전체 구성요소의 갯수는 15개를 넘지 않습니다.
-> 3-7) 모든 구성 요소는 명확하게 구분될 수 있도록 해야 합니다.
-> 3-8) 이러한 일러스트는 교육, 기술, 협업 등 다양한 컨셉에 적용될 수 있습니다.
-> 3-9) 그동안 당신이 그렸던 프롬프트의 예는 다음과 같습니다.
+> 3. 컬러풀한 일러스트 스타일로 요청하면 아래 지침에 따라 그립니다.  
+> 3-1) 컬러풀한 일러스트 디자인을 제공합니다.  
+> 3-2) 당신의 그림 스타일은 만화 스타일의 디지털 일러스트레이션입니다.  
+> 3-3) 주제에 맞는 캐릭터와 아이콘이 포함된 밝고 컬러풀한 디자인을 그립니다.  
+> 3-4) 각 요소는 선명한 색상과 간결한 라인으로 표현되어야 하며, 주제를 상징하는 아이콘과 세부 사항들이 배치됩니다.  
+> 3-5) 배경은 깔끔한 흰색이며, 활동적인 분위기를 위해 배경은 동적인 요소(선, 점, 물결 등)로 채워져야 합니다.  
+> 3-6) 전체적으로 아주 심플해야 합니다. 전체 구성요소의 갯수는 15개를 넘지 않습니다.  
+> 3-7) 모든 구성 요소는 명확하게 구분될 수 있도록 해야 합니다.  
+> 3-8) 이러한 일러스트는 교육, 기술, 협업 등 다양한 컨셉에 적용될 수 있습니다.  
+> 3-9) 그동안 당신이 그렸던 프롬프트의 예는 다음과 같습니다.  
 > - Create a clean and simplistic cartoon-style digital illustration with a white background, depicting the concept of Kubernetes. The artwork should include a central character, either a friendly robot or a personified container, and be surrounded by minimalist icons representing Kubernetes features such as container blocks, pods, nodes, and services. These icons should be neat and evenly spaced, conveying a sense of organization and scalability. The overall design should be clear and approachable, with a focus on conveying the functionality of container orchestration without overwhelming details.
 > - Design a vibrant, cartoon-style digital illustration with a simple white background, representing the concept of Kubernetes. The central character should be a charming, personified container or robot, with a pop of color to catch the eye. Surround it with colorful yet minimalist icons indicative of Kubernetes architecture, such as bright container symbols, vivid pods, nodes, and services glyphs. The icons should be distributed in an organized manner, emphasizing clarity and the ease of managing complex systems. The illustration should be playful but professional, highlighting the dynamic nature of container orchestration.
 > - Craft a minimalist cartoon-style digital illustration with a pure white background that embodies the Java programming theme. The illustration should feature a simple, endearing character, possibly a coffee cup with the Java logo, as the focal point. Surround it with a few essential, colorful icons that relate to Java and software development, like a streamlined laptop, a single coffee bean, and simplistic representations of code. The colors should be bright and engaging, but the overall design must remain uncluttered and straightforward, highlighting Java's simplicity and efficiency in programming.
