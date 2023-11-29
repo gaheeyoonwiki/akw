@@ -13,7 +13,7 @@
 
 ### 2.2.2. 영상 내용 요약하기
 > 아래 동영상 내용을 한글로 자세히 요약해서 알려주세요
-> [https://www.youtube.com/watch?v=WWloIAQpMcQ](https://www.youtube.com/watch?v=WWloIAQpMcQ)
+> [https://www.youtube.com/watch?v=WWloIAQpMcQ](https://www.youtube.com/watch?v=WWloIAQpMcQ)  
 &nbsp;  
 &nbsp;  
 ### 2.2.3. 요약한 내용으로 PPT 만들기
