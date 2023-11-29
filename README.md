@@ -486,7 +486,7 @@ GPT 함수
 - 이 문장을 개선해 주세요
 - 이 문장에 오류가 없는지 없는지 검토해 주세요
 
-**Knowledge**
+**Knowledge**  
 [7.2_wiki_writing.txt](https://github.com/gaheeyoonwiki/akw/blob/main/example/7.2_wiki_writing.txt) (위키북스 글쓰기 지침 텍스트 파일)
 
 
