@@ -105,6 +105,8 @@
 > − 작업이 완료된 파일 다운로드 링크를 보내주세요.   
 > − 작업 내용은 한글로 알려주세요.   
 
+&nbsp;  
+&nbsp;  
 ### 3.2.1 특정 년도 월별 판매 금액을 표로 보기
 - 예제 파일: [3.2_sales.zip](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.2_sales.zip)
 - 프롬프트: [https://bit.ly/47jsw6d](https://bit.ly/47jsw6d)  
@@ -114,6 +116,8 @@
 > − 각 파일의 칼럼중 “Total Amount”는 일별 판매금액이고, “Total Qty”는 일별 판매수량 입니다.    
 > − 2023년 파일 데이터를 읽어서 2023년 1월부터 10월까지의 월별 판매금액 데이터를 표로 만들어주세요.   
 
+&nbsp;  
+&nbsp;  
 ### 3.2.2 특정월 가장 많은 판매량 도서의 해당년도 전체 판매량 표로 보기
 - 예제 파일: [3.2_sales.zip](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.2_sales.zip)
 - 프롬프트: [https://bit.ly/47qfuUH](https://bit.ly/47qfuUH)  
@@ -125,7 +129,8 @@
 > − 해당 도서의 2023년 1월 부터 9월까지 판매수량과 판매금액을 표로 보여주세요.   
 > − 표는 월, 판매수량,판매금액 칼럼으로 구성이 되야 합니다.   
 
-
+&nbsp;  
+&nbsp;  
 ### 3.2.3 연도별 월별 판매 금액 그래프 그리기
 - 예제 파일: [3.2_sales.zip](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.2_sales.zip)
 - 프롬프트: [https://bit.ly/3Gg0v3z](https://bit.ly/3Gg0v3z)  
@@ -137,6 +142,8 @@
 > − 그래프 X 축에는 1~12월이 표시되고 Y축에는 판매 수량이 표시돼야 합니다.   
 > − 그래프에서 2020년은 붉은색, 2021년은 파란색, 2022년은 주황색, 2023년은 녹색으로 표시해주세요.   
 
+&nbsp;  
+&nbsp;  
 ### 3.3.1 평점 데이터 수치화하기
 - 예제 파일: [3.3_reviews.csv](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.3_reviews.csv)
 - 프롬프트: [https://bit.ly/46Bddo5](https://bit.ly/46Bddo5)  
@@ -147,6 +154,8 @@
 > − "내용 평점5점  편집/디자인 평점5점" 같이 2개의 평점 데이터가 있는 데이터는 숫자만 추출해서 평균값으로 저장해주세요.   
 > − 작업을 마무리하면 다운 받을 수 있는 링크를 보내주세요.   
 
+&nbsp;  
+&nbsp;  
 ### 3.3.2 낮은 평점 리뷰 엑셀로 추출하기
 - 예제 파일: [3.3_updated_reviews.csv](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.3_updated_reviews.csv)
 - 프롬프트: [https://bit.ly/49Tnjnb](https://bit.ly/49Tnjnb)  
@@ -157,6 +166,8 @@
 > − 해당 엑셀 파일 레코드는 "작성일" 역순으로 정리해주세요.   
 > − 엑셀 파일 다운로드 링크를 보내주세요.   
 
+&nbsp;  
+&nbsp;  
 ### 3.3.3 높은 평점을 받은 도서 제목으로 워드 클라우드 작성하기
 - 예제 파일: [3.3_NanumGothic.ttf](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.3_NanumGothic.ttf), [3.3_updated_reviews.csv](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.3_updated_reviews.csv)
 - 프롬프트: [https://bit.ly/46Be73X](https://bit.ly/46Be73X)  
@@ -166,6 +177,8 @@
 > − 작성일이 2023년 1월 1일 이후 리뷰 사항중에서 "숫자평점"이 4.0 이상인 도서 제목으로 워드 클라우드를 만들어주세요.   
 > − 워드 클라우드를 만들때 폰트는 업로드한 NanumGothic.ttf를 사용해주세요.   
 
+&nbsp;  
+&nbsp;  
 ### 3.4.1 목차 데이터 분석하기
 - 예제 파일: [3.4.1_ChatGPTxPython(원문).txt](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.4.1_ChatGPTxPython(%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB).txt), [3.4.1_랭체인을 활용한 인공지능 프로그래밍.txt](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.4.1_%E1%84%85%E1%85%A2%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC.txt)
 - 프롬프트: [https://bit.ly/3N087Le](https://bit.ly/3N087Le)  
@@ -174,7 +187,8 @@
 > − 비슷한 키워드를 가진 국내 서적의 목차와 일본 서적의 목차입니다. 두 도서 각각의 챕터별 키워드를 나열해주세요.  
 > − 두 도서의 챕터별 키워드 분석을 통해서 각각의 도서 특징과 차이점을 한글로 자세하게 설명해주세요.  
 
-
+&nbsp;  
+&nbsp;  
 ### 3.4.2 PDF에서 데이터 추출하기
 - 예제 파일: [3.4.2_붙임2. 2023년 세종도서 학술부문 추천도서 목록(390종)](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.4.2_%E1%84%87%E1%85%AE%E1%87%80%E1%84%8B%E1%85%B5%E1%86%B72.%202023%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%89%E1%85%A6%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%AE%E1%86%AF%E1%84%87%E1%85%AE%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8(390%E1%84%8C%E1%85%A9%E1%86%BC).pdf)  
 - 프롬프트: [https://bit.ly/3sIZ9eG](https://bit.ly/3sIZ9eG)  
@@ -188,8 +202,16 @@
 > −  업로드한 엑셀 파일에서 첫번째 칼럼이 1000 이내의 숫자로 시작되는 행을 복사해서 새로운 엑셀 파일로 만들어주세요   
 > −  복사된 시트의 칼럼 이름을 "연번", "분과", "도서명", "ISBN", "출판사", "저자 / 역자"로 설정합니다.  
 > −  복사 작업이 마무리 됐다면 엑셀 파일에서 시트를 추가하고 "출판사" 별 개수를 구해주세요.  
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 ## 4장. DeepL & Whisper로 세상의 모든 정보 활용하기
 
 ### 4.1.3 DeepL 등록하기
