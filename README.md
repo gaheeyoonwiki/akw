@@ -56,19 +56,20 @@
 ### 2.5.3. MixerBox OnePlayer(믹서박스 원플레이어)
 > 일할 때 집중하기 좋은 플레이리스트를 추천해주세요.
 
-
-
-
-
-
-
-
-
-    
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;    
 ## 3장. 만능 작업 도우미 - GPT-4 Analysis
 
 ### 3.1 기본 사용법 및 간단한 엑셀 조작
-- 예제 파일: 
+- 예제 파일: [3.1_excel_sample.xlsx](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.1_excel_sample.xlsx)
 
 > − 실지급액 칼럼 금액을 계산해주세요. 실지급액= 지급액-소득세-주민세 입니다.  
 > − 월별로 시트를 분리해서 저장해주세요.   
@@ -76,7 +77,7 @@
 > − 작업 내용은 한글로 알려주세요.   
 
 ### 3.2.1 특정 년도 월별 판매 금액을 표로 보기
-- 예제 파일:   
+- 예제 파일: [3.2_sales.zip](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.2_sales.zip)
 - 프롬프트: [https://bit.ly/47jsw6d](https://bit.ly/47jsw6d)  
 
 > − 작업 내용은 한글로 알려주세요.   
@@ -85,7 +86,7 @@
 > − 2023년 파일 데이터를 읽어서 2023년 1월부터 10월까지의 월별 판매금액 데이터를 표로 만들어주세요.   
 
 ### 3.2.2 특정월 가장 많은 판매량 도서의 해당년도 전체 판매량 표로 보기
-- 예제 파일:   
+- 예제 파일: [3.2_sales.zip](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.2_sales.zip)
 - 프롬프트: [https://bit.ly/47qfuUH](https://bit.ly/47qfuUH)  
 
 > − 작업 내용은 한글로 알려주세요.    
@@ -97,7 +98,7 @@
 
 
 ### 3.2.3 연도별 월별 판매 금액 그래프 그리기
-- 예제 파일:   
+- 예제 파일: [3.2_sales.zip](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.2_sales.zip)
 - 프롬프트: [https://bit.ly/3Gg0v3z](https://bit.ly/3Gg0v3z)  
 
 > − 작업 내용은 한글로 알려주세요.   
@@ -108,7 +109,7 @@
 > − 그래프에서 2020년은 붉은색, 2021년은 파란색, 2022년은 주황색, 2023년은 녹색으로 표시해주세요.   
 
 ### 3.3.1 평점 데이터 수치화하기
-- 예제 파일:   
+- 예제 파일: [3.3_reviews.csv](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.3_reviews.csv)
 - 프롬프트: [https://bit.ly/46Bddo5](https://bit.ly/46Bddo5)  
 
 > − 작업 내용은 한글로 알려주세요.   
@@ -118,7 +119,7 @@
 > − 작업을 마무리하면 다운 받을 수 있는 링크를 보내주세요.   
 
 ### 3.3.2 낮은 평점 리뷰 엑셀로 추출하기
-- 예제 파일:   
+- 예제 파일: [3.3_updated_reviews.csv](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.3_updated_reviews.csv)
 - 프롬프트: [https://bit.ly/49Tnjnb](https://bit.ly/49Tnjnb)  
 
 > − 작업 내용은 한글로 설명해주세요.   
@@ -128,7 +129,7 @@
 > − 엑셀 파일 다운로드 링크를 보내주세요.   
 
 ### 3.3.3 높은 평점을 받은 도서 제목으로 워드 클라우드 작성하기
-- 예제 파일:   
+- 예제 파일: [3.3_NanumGothic.ttf](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.3_NanumGothic.ttf), [3.3_updated_reviews.csv](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.3_updated_reviews.csv)
 - 프롬프트: [https://bit.ly/46Be73X](https://bit.ly/46Be73X)  
 
 > − 작업 사항은 한글로 설명해주세요.   
@@ -137,7 +138,7 @@
 > − 워드 클라우드를 만들때 폰트는 업로드한 NanumGothic.ttf를 사용해주세요.   
 
 ### 3.4.1 목차 데이터 분석하기
-- 예제 파일:   
+- 예제 파일: [3.4.1_ChatGPTxPython(원문).txt](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.4.1_ChatGPTxPython(%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB).txt), [3.4.1_랭체인을 활용한 인공지능 프로그래밍.txt](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.4.1_%E1%84%85%E1%85%A2%E1%86%BC%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC.txt)
 - 프롬프트: [https://bit.ly/3N087Le](https://bit.ly/3N087Le)  
 
 > − 작업은 한글로 설명해주세요.   
@@ -146,7 +147,7 @@
 
 
 ### 3.4.2 PDF에서 데이터 추출하기
-- 예제 파일:   
+- 예제 파일: [3.4.2_붙임2. 2023년 세종도서 학술부문 추천도서 목록(390종)](https://github.com/gaheeyoonwiki/akw/blob/main/example/3.4.2_%E1%84%87%E1%85%AE%E1%87%80%E1%84%8B%E1%85%B5%E1%86%B72.%202023%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%89%E1%85%A6%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%AE%E1%86%AF%E1%84%87%E1%85%AE%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%20%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8(390%E1%84%8C%E1%85%A9%E1%86%BC).pdf)  
 - 프롬프트: [https://bit.ly/3sIZ9eG](https://bit.ly/3sIZ9eG)  
 
 > − 작업 내용은 한글로 설명해주세요.   
